@@ -1,9 +1,8 @@
 # Presentation
 
-```
 In our presentation we are talk about:
 
-Comparing Data Analysts and Data Scientists
+<h3>Comparing Data Analysts and Data Scientists</h3>
 
 - What is Data?
 - Data Analysis and Data Analytics?
@@ -17,12 +16,18 @@ Comparing Data Analysts and Data Scientists
 - Data Ming Techniques?
 - Case Study Healthcare
 - Differences between Data Mining and Data Analytics?
-```
+
 # Resources
+
+
 - https://www.ibm.com/cloud/learn/data-mining
 - https://www.techtarget.com/searchbusinessanalytics/definition/data-preparation
 - https://www.techtarget.com/searchdatamanagement/definition/data-analytics
 - https://www.coursera.org/articles/data-analytics
 
+
 # Team Memebers
+
+- [Mahmuod Alhassan](https://github.com/alhassanm)
+
 
