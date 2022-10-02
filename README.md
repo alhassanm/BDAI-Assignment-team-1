@@ -34,4 +34,4 @@ In our presentation we are talk about:
 - [Batool Alhajaji](https://github.com/Batool247)
 - [Abdullah Huwaishel](https://github.com/Batool247)
 
-# SDA  Data Analysts - Data Analysts VS Data Mining - CodingDojo - Data Mining
+# SDA - Data Analysts - Data Analysts VS Data Mining - CodingDojo - Data Mining
