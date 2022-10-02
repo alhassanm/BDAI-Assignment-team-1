@@ -33,5 +33,6 @@ In our presentation we are talk about:
 - [Afnan Alzahrani](https://github.com/AfnanAlzahrani)
 - [Batool Alhajaji](https://github.com/Batool247)
 - [Abdullah Huwaishel](https://github.com/Batool247)
+- [Amjad Almusallam](https://github.com/ASM650)
 
 # SDA - Data Analysts - Data Analysts VS Data Mining - CodingDojo - Data Mining
