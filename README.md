@@ -2,7 +2,7 @@
 
 In our presentation we are talk about:
 
-<h3>Comparing between Data Analysts and Data Scientists</h3>
+<h3>Comparing between Data Analysts and Data Mining</h3>
 
 - What is Data?
 - Data Analysis and Data Analytics?
@@ -34,4 +34,4 @@ In our presentation we are talk about:
 - [Batool Alhajaji](https://github.com/Batool247)
 - [Abdullah Huwaishel](https://github.com/Batool247)
 
-
+#SDA #Data_Analysts #Data_Analysts_VS_Data Mining #CodingDojo
