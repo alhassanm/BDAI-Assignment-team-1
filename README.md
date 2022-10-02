@@ -1,6 +1,5 @@
-# Presentation
-
-In our presentation we are talk about:
+![image](https://user-images.githubusercontent.com/49952739/193455897-fd9e2b78-031f-4137-b33a-01f6b5f8c5d9.png)
+# Data Analysts VS Data Mining
 
 <h3>Comparing between Data Analysts and Data Mining</h3>
 
@@ -36,3 +35,6 @@ In our presentation we are talk about:
 - [Amjad Almusallam](https://github.com/ASM650)
 
 # SDA - Data Analysts - Data Analysts VS Data Mining - CodingDojo - Data Mining
+![image](https://user-images.githubusercontent.com/49952739/193455834-b810a22f-1a2f-43cc-8a59-0b36485b615a.png)
+
+
