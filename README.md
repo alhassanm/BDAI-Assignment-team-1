@@ -2,7 +2,7 @@
 
 In our presentation we are talk about:
 
-<h3>Comparing Data Analysts and Data Scientists</h3>
+<h3>Comparing between Data Analysts and Data Scientists</h3>
 
 - What is Data?
 - Data Analysis and Data Analytics?
